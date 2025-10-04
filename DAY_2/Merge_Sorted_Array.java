@@ -1,6 +1,6 @@
 package DAY_2;
 
-import java.util.*;
+//import java.util.*;
 
 public class Merge_Sorted_Array {
 	

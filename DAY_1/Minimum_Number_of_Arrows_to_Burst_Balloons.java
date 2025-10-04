@@ -2,12 +2,9 @@ package DAY_1;
 
 import java.util.*;
 
-<<<<<<< HEAD
 public class Minimum_Number_of_Arrows_to_Burst_Balloons {
 	
-=======
-  	
->>>>>>> 98e5c0216d3eb32c198626948228ed99fe60d3ec
+
 //	https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/
 	public int findMinArrowShots(int[][] points) {
         Arrays.sort(points, (a,b)->{

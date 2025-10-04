@@ -4,12 +4,6 @@ import java.util.*;
 
 public class Sliding_Window_Maximum {
 
-<<<<<<< HEAD
-	
-=======
-
-  	
->>>>>>> 98e5c0216d3eb32c198626948228ed99fe60d3ec
 //	https://leetcode.com/problems/sliding-window-maximum/
 	public int[] maxSlidingWindow(int[] nums, int k) {
         int n=nums.length;
@@ -44,10 +38,5 @@ public class Sliding_Window_Maximum {
         }
         return ans;
     }
-<<<<<<< HEAD
-	
-=======
 
-  
->>>>>>> 98e5c0216d3eb32c198626948228ed99fe60d3ec
 }
