@@ -1,6 +1,8 @@
 package DAY_13;
 import java.util.*;
 
+//https://leetcode.com/problems/implement-queue-using-stacks/
+
 public class Implement_Queue_using_Stacks {
 //	MyQueue obj = new MyQueue();
 //	obj.push(x);
