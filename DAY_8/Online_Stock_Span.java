@@ -11,7 +11,7 @@ public class Online_Stock_Span {
     class Pair{
         int first, second;
         Pair(int i, int j){
-            this.first=i;
+            this.first=i; 
             this.second=j;
         }
     }
