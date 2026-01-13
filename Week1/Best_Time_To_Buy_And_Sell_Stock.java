@@ -2,6 +2,8 @@ package Week1;
 import java.util.*;
 
 public class Best_Time_To_Buy_And_Sell_Stock {
+	
+//	https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -14,6 +16,7 @@ public class Best_Time_To_Buy_And_Sell_Stock {
 		
 		int ans=fun(arr);
 		System.out.println(ans);
+		sc.close();
 
 	}
 	
